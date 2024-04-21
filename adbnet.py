@@ -12,9 +12,9 @@ except:
     print("[-] Error! Make sure you install the required modules!")
 
 
-shodan_key = "" # Add your Shodan API Key here
-api_id = "" # Add your Censys API ID here
-api_secret = "" # Add your Censys API Secret Key here
+shodan_key = "" #1NyacnGPQen2aiBvHbY8ECTyDP7IXkrr
+api_id = "" #40626908-85f9-411f-8c58-a36c8e2ccfcd
+api_secret = "" #BeR2Y9fmR0Hmd5UioOFffuolywdq5n3K
 
 
 # AdbNet
